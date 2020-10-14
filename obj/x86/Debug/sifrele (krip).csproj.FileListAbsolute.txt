@@ -1,0 +1,74 @@
+C:\Users\Mehmet\Desktop\Ana Program (Düzenlendi)\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\Mehmet\Desktop\Ana Program (Düzenlendi)\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\Mehmet\Desktop\Ana Program (Düzenlendi)\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Mehmet\Desktop\Ana Program (Düzenlendi)\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Mehmet\Desktop\Ana Program (Düzenlendi)\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Ana Program (Düzenlendi)\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+C:\Users\Mehmet\Desktop\Ana Program (Düzenlendi)\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\Ana Program (Düzenlendi)\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
+E:\Ana Program\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+E:\Ana Program\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+E:\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+E:\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+E:\Ana Program\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+E:\Ana Program\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+E:\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+E:\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+E:\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+E:\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\Mehmet\Desktop\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\Mehmet\Desktop\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Desktop\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+C:\Users\Mehmet\Desktop\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Mehmet\Desktop\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Mehmet\Downloads\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\Mehmet\Downloads\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\Mehmet\Downloads\Ana Program\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Mehmet\Downloads\Ana Program\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Mehmet\Downloads\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+C:\Users\Mehmet\Downloads\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+C:\Users\Mehmet\Downloads\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Mehmet\Downloads\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
+C:\Users\quiet\Desktop\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\quiet\Desktop\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\quiet\Desktop\Ana Program\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\quiet\Desktop\Ana Program\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\quiet\Desktop\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+C:\Users\quiet\Desktop\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+C:\Users\quiet\Desktop\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\quiet\Desktop\Ana Program\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
+C:\Users\quiet\Desktop\ensonprog\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\quiet\Desktop\ensonprog\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\quiet\Desktop\ensonprog\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\quiet\Desktop\ensonprog\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\quiet\Desktop\ensonprog\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+C:\Users\quiet\Desktop\ensonprog\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\quiet\Desktop\ensonprog\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
+C:\Users\quiet\Desktop\ensonprog\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+C:\Users\quiet\Desktop\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\quiet\Desktop\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\quiet\Desktop\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\quiet\Desktop\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\quiet\Desktop\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+C:\Users\quiet\Desktop\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+C:\Users\quiet\Desktop\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\quiet\Desktop\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
+C:\Users\quiet\Desktop\Projee\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\quiet\Desktop\Projee\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\quiet\Desktop\Projee\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+C:\Users\quiet\Desktop\Projee\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\quiet\Desktop\Projee\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
+C:\Users\quiet\Desktop\Projee\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\quiet\Desktop\Projee\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\quiet\Desktop\Projee\Resim İçine Metin Şifreleme (Proje)\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+C:\Users\Bilge\Desktop\sifreleme\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\Bilge\Desktop\sifreleme\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\Bilge\Desktop\sifreleme\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\Bilge\Desktop\sifreleme\sifreleme\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\Bilge\Desktop\sifreleme\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csprojResolveAssemblyReference.cache
+C:\Users\Bilge\Desktop\sifreleme\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.sifreleme.resources
+C:\Users\Bilge\Desktop\sifreleme\sifreleme\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Bilge\Desktop\sifreleme\sifreleme\WindowsFormsApplication10\obj\x86\Debug\sifrele (krip).csproj.GenerateResource.Cache
